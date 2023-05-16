@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @amrus (Alana she/her)
-- 👀 I’m interested in front-end development and UI/UX (but am open to back-emd). I am also interested in ED Tech and anything that makes a difference in our world. 
-- 🌱 I’m currently focused on mastering Java & Python. I am also working on my Javascript skills. 
-- 💞️ I’m looking to collaborate on whatever comes my way. Feel free to contact. :)
+- 👀 I’m interested in communications and accessible UX design.  
+- 🌱 I’m currently focused on gathering more experience in expanding my design and marketing collateral creation. 
 - 📫 How to reach me: @ alanarust@gmail.com
 
 <!---
