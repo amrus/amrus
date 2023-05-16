@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amrus (Alana she/they)
+- 👋 Hi, I’m @amrus (Alana she/her)
 - 👀 I’m interested in front-end development and UI/UX (but am open to back-emd). I am also interested in ED Tech and anything that makes a difference in our world. 
 - 🌱 I’m currently focused on mastering Java & Python. I am also working on my Javascript skills. 
 - 💞️ I’m looking to collaborate on whatever comes my way. Feel free to contact. :)
